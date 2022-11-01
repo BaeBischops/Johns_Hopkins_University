@@ -1,7 +1,8 @@
 # Johns-Hopkins-Web-design
 Basic tools that every web page coder needs to know. HTML, CSS, and JavaScript.
 # Coursera-HTML-CSS-and-Javascript-for-Web-Developers
-![Course Completion certificate](https://github.com/BaeBischops/Johns_Hopkins_University/HTML_CSS_Javascript_For_Web_Developers/blob/master/Certificate.PNG)
+
+![Course Completion certificate](https://github.com/BaeBischops/Johns_Hopkins_University/blob/main/HTML_CSS_Javascript_For_Web_Developers/Certificate.png)
 
 
 # Assignments :
