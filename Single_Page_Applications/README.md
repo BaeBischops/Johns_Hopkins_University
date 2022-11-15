@@ -5,8 +5,8 @@ This repository contains all of the source code of assignments in Single Page We
 
 
 # Assignments :
-* [Assignment_1] - (https://BaeBischops.github.io/Johns_Hopkins_University/Single_Page_Applications/Assignment_1/index.html)
-* [Assignment_2] - (https://BaeBischops.github.io/Johns_Hopkins_University/Single_Page_Applications/Assignment_2/index.html)
-* [Assignment_3] - (https://BaeBischops.github.io/Johns_Hopkins_University/Single_Page_Applications/Assignment_3/index.html)
-* [Assignment_4] - (https://BaeBischops.github.io/Johns_Hopkins_University/Single_Page_Applications/Assignment_4/index.html)
-* [Assignment_5] - (https://BaeBischops.github.io/Johns_Hopkins_University/Single_Page_Applications/Assignment_5/index.html)
+* [Assignment_1](https://BaeBischops.github.io/Johns_Hopkins_University/Single_Page_Applications/Assignment_1/index.html)
+* [Assignment_2](https://BaeBischops.github.io/Johns_Hopkins_University/Single_Page_Applications/Assignment_2/index.html)
+* [Assignment_3](https://BaeBischops.github.io/Johns_Hopkins_University/Single_Page_Applications/Assignment_3/index.html)
+* [Assignment_4](https://BaeBischops.github.io/Johns_Hopkins_University/Single_Page_Applications/Assignment_4/index.html)
+* [Assignment_5](https://BaeBischops.github.io/Johns_Hopkins_University/Single_Page_Applications/Assignment_5/index.html)
