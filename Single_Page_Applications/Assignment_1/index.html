@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en" ng-app="LunchCheckFxn">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script src="angular.min.js" defer></script>
+    <script src="app.js" defer></script>
+</head>
+  <body>
+    <div ng-controller="LunchFxn">
+      <h1>Lunch Checker</h1>
+      <h3>list comma separated dishes you usually have for lunch</h3>
+      <div class="form-group {{textStyle}}">
+        <input id="lunch-menu" type="text" placeholder="Type here" ng-model="foodItems">
+        <div><strong>Note:</strong>  An empty item is NOT considered as an item towards calculating the count.</div>
+      </div><br>
+      <button ng-click="onCheckIfTooMuch()">Check If Too Much</button>
+      {{message}}
+    </div>
+  </body>
+</html>
