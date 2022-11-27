@@ -5,19 +5,22 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
+    <link rel="stylesheet" href="index.css">
     <script src="angular.min.js" defer></script>
     <script src="app.js" defer></script>
 </head>
   <body>
     <div ng-controller="LunchFxn">
       <h1>Lunch Checker</h1>
-      <h3>list comma separated dishes you usually have for lunch</h3>
-      <div class="form-group {{textStyle}}">
-        <input id="lunch-menu" type="text" placeholder="Type here" ng-model="foodItems">
+      <h3>List comma separated dishes you usually have for lunch</h3>
+      <div>
         <div><strong>Note:</strong>  An empty item is NOT considered as an item towards calculating the count.</div>
-      </div><br>
-      <button ng-click="onCheckIfTooMuch()">Check If Too Much</button>
-      {{message}}
+        <input id="lunch-menu" type="text" placeholder="Type here" ng-model="foodItems">
+      </div>
+      <button ng-click="onCheckIfTooMuch()">Check If Too Much</button><br>
+
+      <div class="circle green {{green_opacity}}"></div>
+      <div class="circle red {{red_opacity}}"></div>
     </div>
   </body>
 </html>
